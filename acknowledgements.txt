@@ -1,0 +1,5 @@
+Source	Used For/Reason
+1. https://github.com/BartyzalRadek/contextual-bandits-recommender/blob/master/linUCB.py	To learn more about linUCB code especially the vectors and alorgithm behind it.
+2. https://github.com/umeshksingla/news-recommend-ire/blob/master/src/imbalanced_classification.py	To look at repos that implements LinUCB
+3. https://github.com/niffler92/Bandit/blob/master/bandit/bandit.py	To learn more about contextual bandits
+4. https://wensun.github.io/CS6789_data/linUCB.pdf	To learn more about the formulas discuss in class about the linUCB Linear Upper Confidence Bound
